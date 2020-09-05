@@ -1,0 +1,218 @@
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\obj\Debug\CatchPachets.csprojAssemblyReference.cache
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\obj\Debug\CatchPachets.exe.config
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\obj\Debug\CatchPachets.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\CatchPachets.exe.config
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\CatchPachets.exe
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\CatchPachets.pdb
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\netstandard.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.AppContext.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Collections.Concurrent.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Collections.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Collections.NonGeneric.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Collections.Specialized.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.ComponentModel.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.ComponentModel.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Console.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Data.Common.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.Contracts.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.Debug.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.Process.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.Tools.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.Tracing.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Drawing.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Dynamic.Runtime.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Globalization.Calendars.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Globalization.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Globalization.Extensions.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.IO.Compression.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.IO.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.IO.FileSystem.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.IO.IsolatedStorage.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.IO.Pipes.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Linq.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Linq.Expressions.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Linq.Parallel.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Linq.Queryable.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Net.Http.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Net.NameResolution.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Net.NetworkInformation.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Net.Ping.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Net.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Net.Requests.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Net.Security.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Net.Sockets.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Net.WebSockets.Client.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Net.WebSockets.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.ObjectModel.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Reflection.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Reflection.Extensions.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Reflection.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Resources.Reader.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Resources.ResourceManager.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Resources.Writer.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Extensions.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Handles.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.InteropServices.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Numerics.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Security.Claims.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Security.Principal.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Security.SecureString.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Text.Encoding.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Text.RegularExpressions.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Threading.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Threading.Overlapped.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Threading.Tasks.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Threading.Thread.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Threading.ThreadPool.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Threading.Timer.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.ValueTuple.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Xml.ReaderWriter.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Xml.XDocument.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Xml.XmlDocument.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Xml.XmlSerializer.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Xml.XPath.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\PacketDotNet.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\SharpPcap.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\obj\Debug\CatchPachets.csproj.CopyComplete
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\obj\Debug\CatchPachets.exe
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\Конструирование и захват сетевых пакетов\CatchPachets\CatchPachets\obj\Debug\CatchPachets.pdb
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\CatchPachets.exe.config
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\CatchPachets.exe
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\CatchPachets.pdb
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\netstandard.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.AppContext.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Collections.Concurrent.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Collections.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Collections.NonGeneric.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Collections.Specialized.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.ComponentModel.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.ComponentModel.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Console.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Data.Common.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.Contracts.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.Debug.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.Process.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.Tools.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Diagnostics.Tracing.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Drawing.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Dynamic.Runtime.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Globalization.Calendars.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Globalization.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Globalization.Extensions.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.IO.Compression.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.IO.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.IO.FileSystem.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.IO.IsolatedStorage.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.IO.Pipes.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Linq.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Linq.Expressions.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Linq.Parallel.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Linq.Queryable.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Net.Http.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Net.NameResolution.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Net.NetworkInformation.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Net.Ping.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Net.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Net.Requests.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Net.Security.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Net.Sockets.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Net.WebSockets.Client.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Net.WebSockets.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.ObjectModel.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Reflection.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Reflection.Extensions.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Reflection.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Resources.Reader.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Resources.ResourceManager.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Resources.Writer.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Extensions.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Handles.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.InteropServices.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Numerics.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Security.Claims.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Security.Principal.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Security.SecureString.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Text.Encoding.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Text.RegularExpressions.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Threading.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Threading.Overlapped.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Threading.Tasks.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Threading.Thread.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Threading.ThreadPool.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Threading.Timer.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.ValueTuple.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Xml.ReaderWriter.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Xml.XDocument.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Xml.XmlDocument.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Xml.XmlSerializer.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Xml.XPath.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\PacketDotNet.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\SharpPcap.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\obj\Debug\CatchPachets.csprojAssemblyReference.cache
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\obj\Debug\CatchPachets.exe.config
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\obj\Debug\CatchPachets.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\obj\Debug\CatchPachets.csproj.CopyComplete
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\obj\Debug\CatchPachets.exe
+D:\YandexDisk\Job\СибАДИ\Дисциплины\Колледж\Примеры программ\ConstructAndCatchPackets\CatchPachets\CatchPachets\obj\Debug\CatchPachets.pdb
