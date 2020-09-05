@@ -1,0 +1,7 @@
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\portscan\portscan\bin\Debug\portscan.exe.config
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\portscan\portscan\bin\Debug\portscan.exe
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\portscan\portscan\bin\Debug\portscan.pdb
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\portscan\portscan\obj\Debug\portscan.csprojAssemblyReference.cache
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\portscan\portscan\obj\Debug\portscan.csproj.CoreCompileInputs.cache
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\portscan\portscan\obj\Debug\portscan.exe
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\portscan\portscan\obj\Debug\portscan.pdb
