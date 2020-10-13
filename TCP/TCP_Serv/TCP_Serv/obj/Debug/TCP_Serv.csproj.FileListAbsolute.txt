@@ -1,0 +1,14 @@
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\bin\Debug\TCP_Serv.exe.config
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\bin\Debug\TCP_Serv.exe
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\bin\Debug\TCP_Serv.pdb
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\obj\Debug\TCP_Serv.csprojAssemblyReference.cache
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\obj\Debug\TCP_Serv.csproj.CoreCompileInputs.cache
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\obj\Debug\TCP_Serv.exe
+D:\Users\dbrec\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\obj\Debug\TCP_Serv.pdb
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\bin\Debug\TCP_Serv.exe.config
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\bin\Debug\TCP_Serv.exe
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\bin\Debug\TCP_Serv.pdb
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\obj\Debug\TCP_Serv.csprojAssemblyReference.cache
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\obj\Debug\TCP_Serv.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\obj\Debug\TCP_Serv.exe
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP_Serv\TCP_Serv\obj\Debug\TCP_Serv.pdb
