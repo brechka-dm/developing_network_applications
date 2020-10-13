@@ -1,0 +1,14 @@
+C:\Users\dbrec\Desktop\TCP\TCP-CLNT\TCP-CLNT\obj\Debug\TCP-CLNT.csprojAssemblyReference.cache
+C:\Users\dbrec\Desktop\TCP\TCP-CLNT\TCP-CLNT\obj\Debug\TCP-CLNT.csproj.CoreCompileInputs.cache
+C:\Users\dbrec\Desktop\TCP\TCP-CLNT\TCP-CLNT\bin\Debug\TCP-CLNT.exe.config
+C:\Users\dbrec\Desktop\TCP\TCP-CLNT\TCP-CLNT\bin\Debug\TCP-CLNT.exe
+C:\Users\dbrec\Desktop\TCP\TCP-CLNT\TCP-CLNT\bin\Debug\TCP-CLNT.pdb
+C:\Users\dbrec\Desktop\TCP\TCP-CLNT\TCP-CLNT\obj\Debug\TCP-CLNT.exe
+C:\Users\dbrec\Desktop\TCP\TCP-CLNT\TCP-CLNT\obj\Debug\TCP-CLNT.pdb
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP-CLNT\TCP-CLNT\obj\Debug\TCP-CLNT.csprojAssemblyReference.cache
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP-CLNT\TCP-CLNT\obj\Debug\TCP-CLNT.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP-CLNT\TCP-CLNT\obj\Debug\TCP-CLNT.exe
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP-CLNT\TCP-CLNT\obj\Debug\TCP-CLNT.pdb
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP-CLNT\TCP-CLNT\bin\Debug\TCP-CLNT.exe.config
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP-CLNT\TCP-CLNT\bin\Debug\TCP-CLNT.exe
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\TCP\TCP-CLNT\TCP-CLNT\bin\Debug\TCP-CLNT.pdb

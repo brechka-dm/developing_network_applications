@@ -1,0 +1,76 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Net.Sockets;
+
+namespace TCP_CLNT
+{
+    class Program
+    {
+        const int ECHO_PORT = 8086;
+        const String ip = "127.0.0.1";
+        static void Main(string[] args) {
+            StreamReader fr;
+            if (args.Count() < 1)
+            {
+                Console.WriteLine("No message file");
+                Console.WriteLine("tcp-clnt filename");
+                Console.ReadLine();
+                return;
+            }
+            try
+            {
+                fr = new StreamReader(args[0], System.Text.Encoding.Default);
+            }
+            catch (Exception exp) {
+                Console.WriteLine("Exception: " + exp);
+                Console.ReadLine();
+                return;
+            }
+            try {
+                TcpClient eClient = new TcpClient(ip, ECHO_PORT);
+                // Создание классов потоков
+                //StreamReader readerStream = new StreamReader (eClient.GetStream());
+                NetworkStream writerStream = eClient.GetStream();
+                String dataToSend;
+                Console.WriteLine("client: "+ args[0]);
+                while ((dataToSend = fr.ReadLine())!= null){
+                    Console.WriteLine(dataToSend);
+                }
+                //dataToSend = username;
+                //dataToSend += "\r\n";
+                // Отправление имя пользователя на сервер
+                //Byte[] data = Encoding.ASCII.GetBytes(dataToSend);
+                //writerStream.Write(data, 0, data.Length);
+                /*
+                while (true){
+                     //Console.Write(username + ":");
+                     // Считывание строки с сервера
+
+                     dataToSend = Console.ReadLine();
+                     dataToSend += "\r\n";
+                     data = Encoding.ASCII.GetBytes(dataToSend);
+                     writerStream.Write(data, 0, data.Length);
+                     // Если введена команда , закрыть приложение
+                     if (dataToSend.IndexOf("") > -1) break;
+                     String returnData;
+                     // Получение ответа от сервера
+                     returnData = readerStream.ReadLine();
+                     Console.WriteLine("Server: " + returnData);
+                 }
+                // Закрытие TcpClient
+                eClient.Close();
+            }
+            */
+            }
+            catch (Exception exp) {
+                Console.WriteLine("Exception: " + exp);
+            }
+            Console.ReadLine();
+        }
+        
+    }
+}
