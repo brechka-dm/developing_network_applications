@@ -1,0 +1,13 @@
+F:\Some Needing\универ\7 семестр\Программирование сетевых приложений\psp5\psp5\bin\Debug\psp5.exe.config
+F:\Some Needing\универ\7 семестр\Программирование сетевых приложений\psp5\psp5\bin\Debug\psp5.exe
+F:\Some Needing\универ\7 семестр\Программирование сетевых приложений\psp5\psp5\bin\Debug\psp5.pdb
+F:\Some Needing\универ\7 семестр\Программирование сетевых приложений\psp5\psp5\obj\Debug\psp5.csprojResolveAssemblyReference.cache
+F:\Some Needing\универ\7 семестр\Программирование сетевых приложений\psp5\psp5\obj\Debug\psp5.exe
+F:\Some Needing\универ\7 семестр\Программирование сетевых приложений\psp5\psp5\obj\Debug\psp5.pdb
+D:\YandexDisk\YandexDisk\Студработы\ПСП\Лаб5\psp5\psp5\bin\Debug\psp5.exe.config
+D:\YandexDisk\YandexDisk\Студработы\ПСП\Лаб5\psp5\psp5\bin\Debug\psp5.exe
+D:\YandexDisk\YandexDisk\Студработы\ПСП\Лаб5\psp5\psp5\bin\Debug\psp5.pdb
+D:\YandexDisk\YandexDisk\Студработы\ПСП\Лаб5\psp5\psp5\obj\Debug\psp5.csprojAssemblyReference.cache
+D:\YandexDisk\YandexDisk\Студработы\ПСП\Лаб5\psp5\psp5\obj\Debug\psp5.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\Студработы\ПСП\Лаб5\psp5\psp5\obj\Debug\psp5.exe
+D:\YandexDisk\YandexDisk\Студработы\ПСП\Лаб5\psp5\psp5\obj\Debug\psp5.pdb

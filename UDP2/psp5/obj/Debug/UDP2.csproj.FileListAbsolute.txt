@@ -1,0 +1,7 @@
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\UDP2\psp5\bin\Debug\psp5.exe.config
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\UDP2\psp5\bin\Debug\psp5.exe
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\UDP2\psp5\bin\Debug\psp5.pdb
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\UDP2\psp5\obj\Debug\UDP2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\UDP2\psp5\obj\Debug\psp5.exe
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\UDP2\psp5\obj\Debug\psp5.pdb
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\UDP2\psp5\obj\Debug\UDP2.csprojAssemblyReference.cache
