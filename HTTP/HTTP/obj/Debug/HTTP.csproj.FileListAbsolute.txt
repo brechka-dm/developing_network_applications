@@ -1,0 +1,7 @@
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\HTTP\HTTP\obj\Debug\HTTP.csprojAssemblyReference.cache
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\HTTP\HTTP\obj\Debug\HTTP.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\HTTP\HTTP\bin\Debug\HTTP.exe.config
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\HTTP\HTTP\bin\Debug\HTTP.exe
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\HTTP\HTTP\bin\Debug\HTTP.pdb
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\HTTP\HTTP\obj\Debug\HTTP.exe
+D:\YandexDisk\YandexDisk\Job\Программирование сетевых приложений\HTTP\HTTP\obj\Debug\HTTP.pdb
